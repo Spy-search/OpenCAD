@@ -3,3 +3,7 @@ app/
 app.dSYM/
 
 dependencies/
+
+.DS_Store
+
+.vscode/
